@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1484249762 source:f:\programs\codeblocks\programs\games\krizic kruzic\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	"classes.h"
+	"tablica.h"
+
+1484165542 source:f:\programs\codeblocks\programs\games\krizic kruzic\crtanje tablice.cpp
+	<iostream>
+	<iomanip>
+	"tablica.h"
+
+1484234918 f:\programs\codeblocks\programs\games\krizic kruzic\tablica.h
+
+1484221058 source:f:\programs\codeblocks\programs\games\krizic kruzic\arrays_krizic-kruzic-brisanje.cpp
+	<iostream>
+	"tablica.h"
+
+1484165542 source:f:\programs\codeblocks\programs\games\krizic kruzic\ispisivanje_tablice.cpp
+	<iostream>
+	<iomanip>
+	"tablica.h"
+
+1484247388 source:f:\programs\codeblocks\programs\games\krizic kruzic\unos_u_tablicu.cpp
+	<iostream>
+	"tablica.h"
+
+1484247586 f:\programs\codeblocks\programs\games\krizic kruzic\classes.h
+	<string>
+
+1484221562 source:f:\programs\codeblocks\programs\games\krizic kruzic\odredjivanje_prvog_poteza.cpp
+	<iostream>
+	"classes.h"
+	"tablica.h"
+
+1484246393 source:f:\programs\codeblocks\programs\games\krizic kruzic\provjera_dobitka_runde.cpp
+	<iostream>
+	<conio.h>
+	"classes.h"
+	"tablica.h"
+
+1484247385 source:f:\programs\codeblocks\programs\games\krizic kruzic\brisanje_polja.cpp
+	<iostream>
+	"classes.h"
+	"tablica.h"
+
+1484247692 source:f:\programs\codeblocks\programs\games\krizic kruzic\zapravo_igra.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"classes.h"
+	"tablica.h"
+
